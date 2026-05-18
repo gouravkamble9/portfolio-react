@@ -176,10 +176,8 @@ function Portfolio() {
                 </div>
               </div>
               <p className="mt-4 text-card-foreground leading-relaxed font-sans text-justify flex-1 text-sm">
-                In my current role at OIT Technology, I contribute to building
-                dynamic web applications using React and Angular. I focus on creating
-                responsive and user-friendly interfaces, collaborating closely with
-                designers and backend developers to deliver high-quality products.
+                Frontend Developer at OIT Technology specializing in React.js, TypeScript, Redux, and third-party API integrations for SaaS platforms and marketing automation systems. Key Projects & Contributions: META ADS CAMPAIGN AUTOMATION PLATFORM * Developed campaign creation and management workflows integrated with Meta Marketing API. * Reduced campaign setup time from 20–25 minutes to 5–10 minutes through streamlined multi-step workflows. * Built modules for campaign configuration, audience targeting, creative setup, campaign scheduling, and analytics dashboards. * Worked on real-time performance tracking and campaign management interfaces. WHATSAPP BROADCASTING & AUTOMATION PLATFORM * Developed frontend modules for WhatsApp marketing automation and bulk messaging workflows. * Built Embedded Signup onboarding flow, template management UI, and campaign setup modules. * Implemented dashboards for real-time message tracking and campaign analytics. * Worked on reusable UI components for campaign workflows, alerts, and contact management. Technical Contributions: * Built reusable component architecture to improve maintainability and development efficiency. * Improved application performance by 15–20% using lazy loading, memoization, and rendering optimizations. * Integrated REST APIs and webhook-based workflows for real-time data synchronization. * Developed responsive and cross-browser compatible user interfaces. * Wrote unit tests using Jest and collaborated in Agile/Scrum development cycles. Tech Stack: React.js, JavaScript (ES6+), TypeScript, Redux, React Hooks, Next.js, HTML5, CSS3, Tailwind CSS, SCSS, REST APIs, Meta Marketing API, WhatsApp Cloud API, Strapi CMS, Git, GitHub Actions, Jest, Vite, Postman, Figma
+
               </p>
             </div>
           </Card>
